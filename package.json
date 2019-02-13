@@ -5,6 +5,7 @@
   "license": "MIT",
   "devDependencies": {
     "@bazel/typescript": "^0.25.0",
+    "tsickle": "~0.34.3",
     "typescript": "^3.3.1"
   },
   "bazelOpts":  {
