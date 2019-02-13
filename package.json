@@ -1,0 +1,13 @@
+{
+  "name": "repro_ts398",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@bazel/typescript": "^0.25.0",
+    "typescript": "^3.3.1"
+  },
+  "bazelOpts":  {
+    "tsickle": true
+  }
+}
